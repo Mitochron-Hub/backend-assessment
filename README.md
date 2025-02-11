@@ -1,4 +1,4 @@
-# MMW BACKEND ASSESSMNENT
+# MITOCHRON HUB BACKEND ASSESSMNENT
 
 1. Create a docker set up that:
 
@@ -56,4 +56,4 @@
 
 4. Write basic unit tests for the endpoints.
 
-DEADLINE: 7 working days from the date of receipt of this document. I.e 10th, February 2025.
+DEADLINE: 3 working days from the date of receipt of this document. i.e 9PM 14th, February 2025.
